@@ -1,0 +1,5 @@
+ta-lib
+sanic
+pandas-ta
+pandas
+numpy < 2

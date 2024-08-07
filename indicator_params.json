@@ -1,0 +1,13 @@
+{
+    "indicators": [
+        {
+            "indicator_name": "rsi",
+            "params": [
+                {
+                    "name": "period",
+                    "value_type": "int"
+                }
+            ]
+        }
+    ]
+}
